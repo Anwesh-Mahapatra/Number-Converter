@@ -2,8 +2,6 @@
 
 A versatile Python-based number conversion tool with a graphical user interface (GUI). Convert between binary, decimal, and hexadecimal numbers effortlessly.
 
-![Number Converter Demo](demo.gif)
-
 ## Features
 
 - **User-Friendly GUI:** Intuitive graphical interface for easy number conversion.
